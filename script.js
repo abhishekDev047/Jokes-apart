@@ -105,7 +105,8 @@ It's a date!`,
 A milkshake!`,
 
 `Why did the man go to the yogurt museum?
-To get a little culture!`,
+To get a little culture!`
+
 ];
 
 const morefunc = ()=>{
